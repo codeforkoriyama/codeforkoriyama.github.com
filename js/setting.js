@@ -18,19 +18,19 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* koriyama cofog */
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-  '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '6-1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '11-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '12-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '13-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '2': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
+  '3': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '4': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
+  '5': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
+  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
+  '8': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
+  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
+  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
 
   /*
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
